@@ -1,2 +1,3 @@
-Desafio JavaScript
-Transformar através do JS (wefit-test/js/main.js) o HTML/DOM de acordo com os prints (/Roteiro-teste-WeFit).
+# Desafio JavaScript
+
+Para atender ao desafio, você pode usar o arquivo JavaScript **wefit-test/js/main.js** para manipular o HTML/DOM de acordo com os prints do roteiro **/Roteiro-teste-WeFit**.
