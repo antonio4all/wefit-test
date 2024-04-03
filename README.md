@@ -9,4 +9,4 @@ Transformar através do JS [wefit-test/js/main.js](https://github.com/appswefit/
 ## Tecnologias Utilizadas
 * HTML: Estrutura básica da página.
 * CSS: Estilização e layout.
-* JavaScript: Lógica de seleção de itens e cálculo do total.
+* JavaScript: Lógica de seleção de itens e manipulação de elementos.
